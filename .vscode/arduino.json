@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "half step\\half_step.ino",
+    "port": "COM4"
+}
